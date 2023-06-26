@@ -1,4 +1,4 @@
-package com.example.Registation.config;
+package com.iset.projetIntegration.CRUD.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
